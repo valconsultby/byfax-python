@@ -10,9 +10,14 @@ REQUIREMENTS
 
 The minimum requirement for this project is Python 3.6
 
+STATUS
+------------
+[![https://pypi.python.org/pypi/zeep/](https://img.shields.io/pypi/v/byfax-sdk.svg)](https://pypi.python.org/pypi/zeep/)
+
+
 INSTALLATION
 ------------
-
+ 
 ```
 pip install byfax-sdk
 ```
