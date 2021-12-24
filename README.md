@@ -10,6 +10,13 @@ REQUIREMENTS
 
 The minimum requirement for this project is Python 3.6
 
+INSTALLATION
+------------
+
+```
+pip install byfax-sdk
+```
+
 
 SERVICES
 ------------
@@ -26,7 +33,7 @@ See the services list below.
 - faxin/inventory - receiving data about assigned virtual fax-numbers. <a href="https://api.byfax.biz/soap/1.1/faxin/inventory" targe='__blank'>[Detailed description and WSDL link]</a>
 
 
-SAMPLES
+USAGE SAMPLES
 ------------
 
 ## Authorization
